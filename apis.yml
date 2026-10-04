@@ -39,7 +39,6 @@ apis:
   - name: GitGuardian
     description: "Scan files for secrets (API Keys, database credentials)"
     humanURL: https://api.gitguardian.com/doc
-    baseURL: https://api.gitguardian.com/doc
     tags:
       - Security
     properties:
