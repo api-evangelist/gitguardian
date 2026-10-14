@@ -39,3 +39,16 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: gitguardian-okta-own
+  label: Okta (own)
+  partner: okta
+  partner_name: Okta (own)
+  category: Lifecycle Management
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://www.okta.com/integrations/integrator-4968415_gitguardianscim_1/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
